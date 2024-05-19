@@ -7,7 +7,7 @@ export default defineConfig({
 		starlight({
 			title: '最终幻想14英文笔记',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/Kaida-Amethyst/ffxiv_notes',
 			},
 			sidebar: [
 				{
