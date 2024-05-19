@@ -8,6 +8,6 @@
     font-style: normal;
     font-weight: normal;
     font-display: swap;
-    src: url('../public/fonts/CaskaydiaMonoNerd/CaskaydiaMonoNerdFont-Regular.ttf');
+    src: url('/fonts/CaskaydiaMonoNerd/CaskaydiaMonoNerdFont-Regular.ttf');
   }
 }
