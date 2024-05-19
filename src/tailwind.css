@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'CaskaydiaMonoNerd';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('../public/fonts/CaskaydiaMonoNerd/CaskaydiaMonoNerdFont-Regular.ttf');
+  }
+}
