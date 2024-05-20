@@ -10,4 +10,22 @@
     font-display: swap;
     src: url('/fonts/CaskaydiaMonoNerd/CaskaydiaMonoNerdFont-Regular.ttf');
   }
+
+  body {
+    background-image: url('./assets/bg-stars.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.95;
+    color: white;
+  }
+
+   h1 {
+     color: white;
+   }
+
+   h2 {
+     color: white;
+   }
 }
